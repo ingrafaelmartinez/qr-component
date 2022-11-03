@@ -12,10 +12,71 @@
 }
 
 html {
-    /* font-size: 6.25%; */
+    font-size: 6.25%;
 }
 
 body {
     background-color: var(--light-gray);
     font-family: 'Outfit', sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    width: 320px;
+    padding: 16px;
+    margin: 15px auto;
+    border-radius: 19px;
+    background-color: var(--white);
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+
+}
+
+.card__img img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card__title {
+    padding: 10px;
+    font-size: 22rem;
+    text-align: center;
+    color: var(--dark-blue);
+}
+
+.card__description {
+    padding: 10px;
+    font-size: 16rem;
+    text-align: center;
+    color: var(--grayish-blue);
+}
+
+.footer {
+    width: 75%;
+    font-size: 15rem;
+    text-align: center;
+    margin: 40px auto 15px auto;
+    padding: 15px;
+
+    color: var(--dark-blue);
+}
+
+.footer a {
+    text-decoration: none;
+    color: #00258b;
+}
+
+
+@media (min-width: 376px) {
+
+    .footer {
+        /* width: 100%; */
+        max-width: 320px;
+        font-size: 14rem;
+        padding: 5px;
+    }
+    
 }

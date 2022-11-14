@@ -78,6 +78,6 @@ My greatest learning during the development of this challenge was to be able to 
 
 - Frontend Mentor - [@ingrafaelmartinez](https://www.frontendmentor.io/profile/ingrafaelmartinez)
 - Twitter - [@ingrafamartinez](https://twitter.com/ingrafamartinez)
-- LinkedIn - [Rafael Martínez Rodríguez](www.linkedin.com/in/rafael-martínez-rodríguez-2b266a30)
+- LinkedIn - [Rafael Martínez Rodríguez](www.linkedin.com/in/rafael-mart%C3%ADnez-rodr%C3%ADguez-2b266a30)
 
 
